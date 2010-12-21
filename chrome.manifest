@@ -1,0 +1,3 @@
+content     addresscopy    											chrome/content/
+
+overlay		chrome://messenger/content/messenger.xul			chrome://addresscopy/content/overlay.xul
